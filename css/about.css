@@ -1,0 +1,19 @@
+.about {
+    padding-top: 100px;
+    width: 100%;
+    /*background-color: #0DB3F3;*/
+}
+
+#kara {
+    border-radius: 50%;
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#para-about-me {
+    padding: 50px 100px 200px 100px;
+}
