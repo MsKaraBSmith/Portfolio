@@ -1,0 +1,19 @@
+.footer {
+    margin: auto;
+    text-align: center;
+    display: block;
+    color: black;
+    font-size: small;
+    text-decoration: none;
+    padding-top: 100px
+}
+
+.footer-link {
+    padding: 5px;
+    margin: 10 px;
+    color: black;   
+}
+
+#p-footer {
+    color: black;
+}

@@ -1,0 +1,32 @@
+#experience {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 120px;
+    text-align: center;
+    display: block;
+    height: 500px;
+}
+
+.p-experience {
+    font-size: 36px;
+    color: white;
+}
+
+b {
+    font-size: 36px;
+    color: #850072;
+}
+
+#resume {
+    background-color: white;
+    border-radius: 8px;
+}
+
+#resume:hover {
+    transform: scale(1.1);
+}
+
+#experience {
+    background-image: url(https://images.unsplash.com/photo-1609287873146-a72edea964b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
+    
+}
