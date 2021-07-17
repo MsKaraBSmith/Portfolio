@@ -3,7 +3,6 @@
     background: url(https://images.unsplash.com/photo-1609287873146-a72edea964b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80) no-repeat center center fixed;
     z-index: -10;
     background-size: cover;
-    
 }
 
 .container {
@@ -18,7 +17,6 @@
     font-weight: bold;
     color: white;
     padding-left: 20px;
-    /*background-color: #0DB3F3;*/
 }
 
 #my-jumbo-para {
